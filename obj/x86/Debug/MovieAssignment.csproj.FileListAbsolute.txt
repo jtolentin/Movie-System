@@ -1,0 +1,36 @@
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe.config
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.pdb
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Form1.resources
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Properties.Resources.resources
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csproj.GenerateResource.Cache
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.exe
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.pdb
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Edit.resources
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Delete.resources
+C:\Users\Maricar\Documents\Visual Studio 2012\Projects\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Add.resources
+G:\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe.config
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.exe
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.pdb
+G:\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe
+G:\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.pdb
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csprojResolveAssemblyReference.cache
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Form1.resources
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Edit.resources
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Delete.resources
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Add.resources
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Properties.Resources.resources
+G:\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csproj.GenerateResource.Cache
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe.config
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.exe
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.pdb
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.exe
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\bin\x86\Debug\MovieAssignment.pdb
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Form1.resources
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Edit.resources
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Delete.resources
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Add.resources
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.Properties.Resources.resources
+C:\Users\Maricar\Desktop\Kyle\School\3rd Semester\MovieAssignment\MovieAssignment\obj\x86\Debug\MovieAssignment.csproj.GenerateResource.Cache

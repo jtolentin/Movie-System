@@ -1,0 +1,9 @@
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\bin\Debug\MovieAssignment.exe.config
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\bin\Debug\MovieAssignment.exe
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\bin\Debug\MovieAssignment.pdb
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.csprojResolveAssemblyReference.cache
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.Form1.resources
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.Properties.Resources.resources
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.csproj.GenerateResource.Cache
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.exe
+c:\users\maricar\documents\visual studio 2012\Projects\MovieAssignment\MovieAssignment\obj\Debug\MovieAssignment.pdb
